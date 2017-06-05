@@ -9,26 +9,21 @@
     "summary": "I'm a basic Web Designer, Online Business Consultant based in Philippines. I also have skills in branding and print design. If you have a project or creative need that I can help with, please get in touch.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "6014",
+      "city": "Guizo",
+      "countryCode": "Philippines",
+      "region": "Mandaue City"
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/jakeharoldsanchez"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
@@ -39,20 +34,29 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Color Theory",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Color Theory"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
+      "name": "Web Design/Basic HTML & CSS",
+      "keywords": ["Web Design/Basic HTML & CSS"
       ]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
+      "name": "Layout/Creativity",
+      "keywords": ["Layout/Creativity"
+      ]
+    },
+     {
+      "name": "Print Design",
+      "keywords": ["Print Design"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": ["Graphic Design"
       ]
     }
   ],
