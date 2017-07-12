@@ -59,7 +59,7 @@
       ]
     }
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
